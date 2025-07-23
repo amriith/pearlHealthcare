@@ -1,4 +1,4 @@
-# monitor.pl - Main Network Health Monitoring Script
+
 # This script performs server health checks and log analysis.
 
 use strict;
